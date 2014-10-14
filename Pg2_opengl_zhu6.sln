@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pg2_opengl_zhu6", "Pg2_opengl_zhu6.vcxproj", "{58960238-5530-449B-A7C9-9AB6F3C63EE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58960238-5530-449B-A7C9-9AB6F3C63EE2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{58960238-5530-449B-A7C9-9AB6F3C63EE2}.Debug|Win32.Build.0 = Debug|Win32
+		{58960238-5530-449B-A7C9-9AB6F3C63EE2}.Release|Win32.ActiveCfg = Release|Win32
+		{58960238-5530-449B-A7C9-9AB6F3C63EE2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
